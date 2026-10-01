@@ -1,4 +1,3 @@
 # Contenedor de Administracion de proyectos de software
 
-
-
+Este repositorio sirve para ................
